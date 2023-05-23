@@ -1,0 +1,43 @@
+{
+  "name": "crazymoji",
+  "version": "1.0.3",
+  "description": "CLI Tool To Find And Export All the GitHub Emojis As JSON ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deep5050/crazymoji.git"
+  },
+  "keywords": [
+    "github-emojis",
+    "emoji",
+    "emojis",
+    "git-emoji",
+    "git",
+    "cheatsheet",
+    "cheat-sheet",
+    "doc",
+    "README",
+    "markdown",
+    "emoji-search",
+    "emoji-find"
+  ],
+  "author": "Dipankar Pal",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/deep5050/crazymoji/issues"
+  },
+  "files": [
+    "index.js",
+    "src/",
+    "cheatsheet.md",
+    "logo.gif"
+  ],
+  "homepage": "https://github.com/deep5050/crazymoji#readme",
+  "dependencies": {
+    "fuse.js": "^3.4.3",
+    "titleize": "^2.1.0"
+  }
+}
